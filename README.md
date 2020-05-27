@@ -1,4 +1,5 @@
 # House_Auction
 An house auction system using c++
 
-This system is not complete and has a lot of bugs.....
+A special auction is held for the penthouse.
+This system is not complete and has a lot of bugs..... which can be fixed 

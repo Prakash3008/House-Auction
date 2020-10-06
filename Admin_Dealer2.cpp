@@ -26,6 +26,7 @@ int main()
     int min_amt,temp,temp1;
     int p,nb;
     while(1)
+    return 0;
     {
     		//clrscr;
         cout<<"\n\n\t\t\tCHOOSE YOUR TYPE : \n\n\t\t1.ADMIN\n\n\t\t2.DEALER\n\n\t\t3.EXIT\n\n\n\tEnter your choice : ";

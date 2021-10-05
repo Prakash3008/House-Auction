@@ -60,5 +60,4 @@ void end_auction(int arr[],int &n,int arr1[])
     cout<<"\n\t$$$$$$$$$$$$$$$$$$$$$ THANK YOU $$$$$$$$$$$$$$$$$$$$$";
     bb.getBidder(arr1[0]);
     bb.getData();
-   //exit(1);
 }
